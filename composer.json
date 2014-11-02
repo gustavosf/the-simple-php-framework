@@ -10,15 +10,12 @@
     ],
     "repositories": [{
         "type": "git",
-        "name": "the-simple-php-framework/kernel",
+        "name": "gustavosf/the-simple-php-framework-kernel",
         "url": "git@github.com:gustavosf/the-simple-php-framework-kernel.git"
     }],
     "require": {
         "php": ">=5.4.0",
-        "the-simple-php-framework/kernel": "dev-master"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~4.0"
+        "gustavosf/the-simple-php-framework-kernel": "dev-master"
     },
     "config": {
         "vendor-dir": "app/vendor"

@@ -1,4 +1,4 @@
-## The Simple PHP Framework Kernel
+## The Simple PHP Framework
 
 [![Build Status](https://travis-ci.org/gustavosf/the-simple-php-framework-kernel.svg)](https://travis-ci.org/gustavosf/the-simple-php-framework-kernel)
 
