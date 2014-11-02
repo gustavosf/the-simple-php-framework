@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "62854fd46a76a13982b6d419a64303e6",
+    "packages": [
+        {
+            "name": "gustavosf/the-simple-php-framework",
+            "version": "dev-db",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:gustavosf/php-assessment-framework.git",
+                "reference": "4aec13e80c47bbc141f4f83dcbcd531149a67cd3"
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Framework": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gustavo Seganfredo",
+                    "email": "gustavosf@gmail.com"
+                }
+            ],
+            "description": "The Simple PHP Framework",
+            "homepage": "http://gustavo.seganfredo.net",
+            "time": "2014-11-01 23:20:45"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "gustavosf/the-simple-php-framework": 20
+    },
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
